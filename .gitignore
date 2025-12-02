@@ -1,0 +1,16 @@
+node_modules/
+.env
+.DS_Store
+*.log
+dist/
+
+# Exclude explanation/guide files
+AIRTABLE_OAUTH_SETUP.md
+ALTERNATIVE_OAUTH_FIX.md
+FIX_OAUTH_DEVELOPMENT.md
+FIX_REDIRECT_URI_MISMATCH.md
+FLOW_EXPLANATION.md
+LOGIN_INSTRUCTIONS.md
+QUICKSTART.md
+WEBHOOK_SETUP.md
+
